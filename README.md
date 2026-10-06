@@ -4,6 +4,8 @@ Une présentation de carrière de 8 minutes, racontée comme une petite animatio
 
 Conçue pour un séminaire (« racontez votre parcours, réussites et échecs, en 10 minutes maximum »), puis mise en ligne pour être partagée.
 
+**▶ Démo en ligne : [parcours.letempsdunsite.fr](https://parcours.letempsdunsite.fr)**
+
 ![Page d'accueil](docs/accueil.png)
 
 ## Ce qu'elle fait
